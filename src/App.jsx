@@ -5,7 +5,7 @@ import Register from './pages/register/register';
 import Login from './pages/login/login';
 
 const App = () => {
-  return <Login />;
+  return <Home />;
 };
 
 export default App;
